@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "f19b2e8a21595c93",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1cf3a7abded900a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "secondPage.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d12c2602ba8446c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6a67954305c9ebf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a26f682962e6bff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f1488ade90081c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a83cd547aa43049d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9b910772de7fa2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0199e90a3d5e809",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "secondPage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f1cf3a7abded900a",
+  "lastOpenFiles": [
+    "secondPage.md"
+  ]
+}
